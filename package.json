@@ -1,0 +1,31 @@
+{
+  "name": "adopt-pipes",
+  "version": "1.0.0",
+  "description": "Support adpotin on organ pipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasmlcoch/adopt-pipes.git"
+  },
+  "keywords": [
+    "organ",
+    "adoption",
+    "pipes"
+  ],
+  "author": "dijkstra81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasmlcoch/adopt-pipes/issues"
+  },
+  "homepage": "https://github.com/tomasmlcoch/adopt-pipes#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/inert": "^6.0.4",
+    "@hapi/vision": "^6.1.0",
+    "handlebars": "^4.7.7"
+  }
+}
